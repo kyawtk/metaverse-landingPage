@@ -15,7 +15,7 @@ This project is built to touch up framer motion animations and Next js.
 * reusable tailwind classes and exporting css sementic classes with js
 
 
-## [DEMO](https://ai-media-nextjs.vercel.app/)
+## [DEMO](https://metaverse-landing-page-pied.vercel.app/)
 
 
 <img src="/public/ss.png" alt="Alt text" title=" title">
