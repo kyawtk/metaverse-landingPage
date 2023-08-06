@@ -18,7 +18,7 @@ This project is built to touch up framer motion animations and Next js.
 ## [DEMO](https://ai-media-nextjs.vercel.app/)
 
 
-<img src="/public/assets/images/ss.png" alt="Alt text" title=" title">
+<img src="/public/ss.png" alt="Alt text" title=" title">
 
 ## Getting Started
 
