@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Metaverse Landing page
+
+This project is built to touch up framer motion animations and Next js.
+
+## Features
+
+* Beautiful slide in, fade in, text, image animations
+* Soothing gradients and colors
+* Visually pleasing
+
+## Learning Takeaways
+
+* Animating with framer motion (staggering children components and varients)
+* Usage of positioning components relative to each other.
+* reusable tailwind classes and exporting css sementic classes with js
+
+
+## [DEMO](https://ai-media-nextjs.vercel.app/)
+
+
+<img src="/public/assets/images/ss.png" alt="Alt text" title=" title">
 
 ## Getting Started
 
